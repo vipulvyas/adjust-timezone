@@ -1,12 +1,11 @@
 {
   "name": "adjust-timezone",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "adjust client to server and server to client timezone",
   "repository": {
     "type": "git",
     "url": "https://github.com/vipulvyas/adjust-timezone.git"
   },
-  
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js"
